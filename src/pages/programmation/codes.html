@@ -46,36 +46,38 @@
                 </p>
                 
                 <p class="code">
-                    else
-                    {
-                        /* Now the AI will play on the corners */<br/>
-                        bool corner = false;<br/>
-                        do<br/>
-                        {<br/>
-                            int choice = rand()%4+1;<br/>
-                            if(map[0][0] == '*' &amp;&amp; choice == 1)<br/>
-                            {<br/>
-                                map[0][0] = 'O';<br/>
-                                corner = true;<br/>
-                            }<br/>
-                            else if(map[2][0] == '*' &amp;&amp; choice == 2)<br/>
-                            {<br/>
-                                map[2][0] = 'O';<br/>
-                                corner = true;<br/>
-                            }<br/>
-                            else if(map[2][2] == '*' &amp;&amp; choice == 2)<br/>
-                            {<br/>
-                                map[2][2] = 'O';<br/>
-                                corner = true;<br/>
-                            }<br/>
-                            else if(map[0][2] == '*' &amp;&amp; choice == 2)<br/>
-                            {<br/>
-                                map[0][2] = 'O';<br/>
-                                corner = true;<br/>
-                            }<br/>
-                        }<br/>
-                        while(!corner);<br/>
-                    }<br/>
+                    <pre>
+else
+{
+    /* Now the AI will play on the corners */<br/>
+    bool corner = false;<br/>
+    do<br/>
+    {<br/>
+        int choice = rand()%4+1;<br/>
+        if(map[0][0] == '*' &amp;&amp; choice == 1)<br/>
+        {<br/>
+            map[0][0] = 'O';<br/>
+            corner = true;<br/>
+        }<br/>
+        else if(map[2][0] == '*' &amp;&amp; choice == 2)<br/>
+        {<br/>
+            map[2][0] = 'O';<br/>
+            corner = true;<br/>
+        }<br/>
+        else if(map[2][2] == '*' &amp;&amp; choice == 2)<br/>
+        {<br/>
+            map[2][2] = 'O';<br/>
+            corner = true;<br/>
+        }<br/>
+        else if(map[0][2] == '*' &amp;&amp; choice == 2)<br/>
+        {<br/>
+            map[0][2] = 'O';<br/>
+            corner = true;<br/>
+        }<br/>
+    }<br/>
+    while(!corner);<br/>
+}<br/>
+                    </pre>
                 </p>
                 
                 <!-- rajouter la capture d'écran -->
