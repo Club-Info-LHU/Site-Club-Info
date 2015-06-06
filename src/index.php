@@ -1,6 +1,9 @@
 <!DOCTYPE html> 
 <html> 
-	<?php include("pages/head.php"); ?>
+	<head>
+		<?php include("pages/head.php"); ?>
+		<title>Club Info LHU-Accueil</title> 
+	</head> 
 
 	<body> 
 		<?php include("pages/header.php"); ?>
