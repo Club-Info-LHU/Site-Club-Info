@@ -1,23 +1,9 @@
 <!DOCTYPE html> 
 <html> 
-	<head> 
-		<meta charset="utf-8"/> 
-		<title>Club Info LHU-Accueil</title> 
-	</head> 
+	<?php include("pages/head.php"); ?>
 
 	<body> 
-		<header> 
-			<h1>SITE CLUB INFORMATIQUE LHU</h1> 
-		</header> 
-
-		<nav> 
-			<ul> 
-				<li><a href="index.html">Accueil</a></li> 
-				<li><a href="./pages/programmation.html">Programmation</a></li> 
-				<li><a href="./pages/web.html">Langages Web</a></li> 
-				<li><a href="./pages/concours.html">Concours</a></li> 
-			</ul> 
-		</nav> 
+		<?php include("pages/header.php"); ?>
 
 		<section> 
 			<article> 
@@ -47,8 +33,6 @@
 
 		</section> 
 
-		<footer> 
-			<!-- A rajouter plus tard --> 
-		</footer> 
-	</head> 
+		<?php include("pages/footer.php"); ?>
+	</body> 
 </html> 
