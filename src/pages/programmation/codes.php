@@ -6,7 +6,7 @@
     </head> 
     
     <body>
-        <?php include("../header2.php"); ?>
+        <?php include("header2.php"); ?>
         
         <section>
             <article id="python">
