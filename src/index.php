@@ -6,7 +6,17 @@
 	</head> 
 
 	<body> 
-		<?php include("pages/header.php"); ?>
+		<header>
+			<h1>SITE CLUB INFORMATIQUE LHU</h1>
+		</header>
+		<nav> 
+			<ul> 
+				<li><a href="index.php">Accueil</a></li> 
+				<li><a href="pages/programmation.php">Programmation</a></li> 
+				<li><a href="pages/web.php">Langages Web</a></li> 
+				<li><a href="pages/concours.php">Concours</a></li> 
+			</ul> 
+		</nav>
 
 		<section> 
 			<article> 
