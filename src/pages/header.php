@@ -3,9 +3,9 @@
 </header>
 <nav> 
 	<ul> 
-		<li><a href="index.html">Accueil</a></li> 
-		<li><a href="./pages/programmation.html">Programmation</a></li> 
-		<li><a href="./pages/web.html">Langages Web</a></li> 
-		<li><a href="./pages/concours.html">Concours</a></li> 
+		<li><a href="../index.php">Accueil</a></li> 
+		<li><a href="programmation.php">Programmation</a></li> 
+		<li><a href="web.php">Langages Web</a></li> 
+		<li><a href="concours.php">Concours</a></li> 
 	</ul> 
 </nav>
