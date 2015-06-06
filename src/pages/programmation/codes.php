@@ -74,5 +74,5 @@ else
         </section>
         
         <?php include("../footer.php"); ?>
-    </head>
+    </body>
 </html>
