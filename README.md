@@ -1,5 +1,5 @@
 # Site-Club-Info
-[FR-HTML5/CSS]
+[FR-HTML5/CSS/PHP]
 
 Création et mise à jour du site internet du club informatique du lycée Honoré d'Urfé de Saint Etienne.
 
