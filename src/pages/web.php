@@ -22,7 +22,10 @@
             </article>
             
             <article>
-                <h4>HTML</h4>
+                <h4>HTML et PHP</h4>
+                <p>
+                    Voici par exemple les premières lignes de codes HTML et PHP correspondant à cette page.
+                </p>
                 
                 <p>
 &lt;!DOCTYPE html&gt;</br>
@@ -49,7 +52,10 @@
             &lt;/article&gt;</br>
             </br>
             &lt;article&gt;</br>
-                &lt;h4&gt;HTML&lt;/h4&gt;</br>
+                &lt;h4&gt;HTML et PHP&lt;/h4&gt;</br>
+                &lt;p&gt;
+                    Voici par exemple les premières lignes de codes HTML et PHP correspondant à cette page.
+                &lt;/p&gt;
                 </br>
                 </p>
             </article>
