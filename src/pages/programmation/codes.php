@@ -14,7 +14,7 @@
                
                <p>
                    Voici un exemple de code en python permettant de réaliser le MasterMind ci-dessous.
-                   Le code étant plutôt long, nous n'affichons que la partie codant la gestion des évènements.
+                   Le code étant plutôt long, nous n'affichons qu'une partie du code gérant les événements.
                    <!-- Pour voir le code entier, allez sur github.com/**** (en attente du mastermind sur github) -->
                </p>
                
