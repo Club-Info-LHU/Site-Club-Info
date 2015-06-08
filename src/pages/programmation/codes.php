@@ -20,36 +20,36 @@
                
                <p class="code">
                     <pre>
-...
-	
-"""création d'une boucle infinie maintenant la fenetre ouverte"""
-while continuer :
-	for event in pygame.event.get() :
-		"""Lecture de tous les évènements clavier et souris"""
-
-		"""Pour gérer la fermeture de la fenetre"""
-		if event.type == QUIT :
-			continuer = 0
-			rejouez = 0
-
-		"""Pour gérer le placement des pions du code"""
-		if event.type == MOUSEBUTTONDOWN and event.button == 1 :
-			if event.pos[0] > 9 and event.pos[0] &lt; 30 and \
-				event.pos[1] > 219 and event.pos[1] &lt; 240 :
-					fenetre.blit(pionRouge,(abscisse,ordonnee))
-					abscisse += 35
-					proposition.pop(position)
-					proposition.insert(position,1)
-					position += 1
-
-		...
-			
-	"""Pour rafraichir la page"""
-	pygame.display.flip()
+...<br/>
+	<br/>
+"""création d'une boucle infinie maintenant la fenetre ouverte"""<br/>
+while continuer :<br/>
+	for event in pygame.event.get() :<br/>
+		"""Lecture de tous les évènements clavier et souris"""<br/>
+<br/>
+		"""Pour gérer la fermeture de la fenetre"""<br/>
+		if event.type == QUIT :<br/>
+			continuer = 0<br/>
+			rejouez = 0<br/>
+<br/>
+		"""Pour gérer le placement des pions du code"""<br/>
+		if event.type == MOUSEBUTTONDOWN and event.button == 1 :<br/>
+			if event.pos[0] > 9 and event.pos[0] &lt; 30 and \<br/>
+				event.pos[1] > 219 and event.pos[1] &lt; 240 :<br/>
+					fenetre.blit(pionRouge,(abscisse,ordonnee))<br/>
+					abscisse += 35<br/>
+					proposition.pop(position)<br/>
+					proposition.insert(position,1)<br/>
+					position += 1<br/>
+<br/>
+		...<br/>
+			<br/>
+	"""Pour rafraichir la page"""<br/>
+	pygame.display.flip()<br/>
                     </pre>
                </p>
                
-               <!-- mettre l'image -->
+               <img src="../../pictures/zMastermind_font.bmp" alt="capture d'écran du mastermind"/>
             </article>
             
             <article id="cpp">
