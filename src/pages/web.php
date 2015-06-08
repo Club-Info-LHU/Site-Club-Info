@@ -40,9 +40,9 @@
                 &lt;h3&gt;Diviser pour mieux coder...&lt;/h3&gt;</br>
                 </br>
                 &lt;p&gt;</br>
-                    Nous verrons aussi comment concevoir des sites internet simples. </br>
-                    Pour cela, nous apprendrons à utiliser le HTML qui est un langage de balisage permettant de structurer le site </br>
-                    et le CSS qui gère la feuille de style de notre site, l'aspect esthétique.</br>
+                    Nous verrons aussi comment concevoir des sites internet simples. 
+                    Pour cela, nous apprendrons à utiliser le HTML qui est un langage de balisage permettant de structurer le site 
+                    et le CSS qui gère la feuille de style de notre site, l'aspect esthétique.
                 &lt;/p&gt;</br>
             &lt;/article&gt;</br>
             </br>
