@@ -19,7 +19,34 @@
                </p>
                
                <p class="code">
-                   <!-- code source de la gestion des events -->
+                    <pre>
+...
+	
+"""création d'une boucle infinie maintenant la fenetre ouverte"""
+while continuer :
+	for event in pygame.event.get() :
+		"""Lecture de tous les évènements clavier et souris"""
+
+		"""Pour gérer la fermeture de la fenetre"""
+		if event.type == QUIT :
+			continuer = 0
+			rejouez = 0
+
+		"""Pour gérer le placement des pions du code"""
+		if event.type == MOUSEBUTTONDOWN and event.button == 1 :
+			if event.pos[0] > 9 and event.pos[0] < 30 and \
+				event.pos[1] > 219 and event.pos[1] < 240 :
+					fenetre.blit(pionRouge,(abscisse,ordonnee))
+					abscisse += 35
+					proposition.pop(position)
+					proposition.insert(position,1)
+					position += 1
+
+		...
+			
+	"""Pour rafraichir la page"""
+	pygame.display.flip()
+                    </pre>
                </p>
                
                <!-- mettre l'image -->
