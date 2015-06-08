@@ -34,8 +34,8 @@ while continuer :
 
 		"""Pour gérer le placement des pions du code"""
 		if event.type == MOUSEBUTTONDOWN and event.button == 1 :
-			if event.pos[0] > 9 and event.pos[0] < 30 and \
-				event.pos[1] > 219 and event.pos[1] < 240 :
+			if event.pos[0] > 9 and event.pos[0] &lt; 30 and \
+				event.pos[1] > 219 and event.pos[1] &lt; 240 :
 					fenetre.blit(pionRouge,(abscisse,ordonnee))
 					abscisse += 35
 					proposition.pop(position)
