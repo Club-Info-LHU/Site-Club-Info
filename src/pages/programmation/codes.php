@@ -49,7 +49,7 @@ while continuer :<br/>
                     </pre>
                </p>
                
-               <img src="../../pictures/zMastermind_font.bmp" alt="capture d'écran du mastermind"/>
+               <img src="../../pictures/zMastermind_fond.bmp" alt="capture d'écran du mastermind"/>
             </article>
             
             <article id="cpp">
