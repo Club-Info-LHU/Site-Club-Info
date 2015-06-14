@@ -28,7 +28,7 @@
                 <p>
                     Le concours Castor Informatique est un concours se déroulant chaque année début novembre. 
                     Il se passera dans l'établissement à l'initiative et sous la responsabilité d'un enseignant.
-                    Il sert à promouvoir l(informatique et les sciences du numérique auprès des jeunes.
+                    Il sert à promouvoir l'informatique et les sciences du numérique auprès des jeunes.
                     Vous pouvez d'ores et déjà aller faire un tour sur leur site pour vous entrainer.</br>
                     <a href="http://www.castor-informatique.fr" target="_blank">Site du Castor Informatique</a>
                 </p>
