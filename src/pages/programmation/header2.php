@@ -2,7 +2,7 @@
 	<h1>SITE CLUB INFORMATIQUE LHU</h1>
 </header>
 <nav> 
-	<ul> 
+	<ul class="menu"> 
 		<li><a href="../../index.php">Accueil</a></li> 
 		<li><a href="../programmation.php">Programmation</a></li> 
 		<li><a href="../web.php">Langages Web</a></li> 
