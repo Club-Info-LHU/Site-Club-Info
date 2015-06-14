@@ -75,7 +75,7 @@
                     possible de conserver des versions antérieures d'un code source afin de le récupérer en cas d'erreurs.
                     Git est donc un outil nécessaire pour tout programmeur. <br/>
                     
-                    Si vous êtes convaicus de son utilité, rendez-vous sur <a href="https://github.com/" target="_blank">Github</a> 
+                    Si vous êtes convaincus de son utilité, rendez-vous sur <a href="https://github.com/" target="_blank">Github</a> 
                     pour utiliser Git de manière très intuitive. <br/>
                     
                     Vous pouvez également retrouver tous les projets lancés par le <a href="https://github.com/Club-Info-LHU" target="_blank">Club Info LHU</a>.
@@ -86,7 +86,7 @@
                 <h4>Les Perles de la programmation</h4>
                 
                 <p>
-                    Le programmation n'est pas toujours une tâche structurée, mais peut parfois se transformer en vrais casses-têtes, 
+                    Le programmation n'est pas toujours une tâche structurée, mais peut parfois se transformer en vrais casse-têtes, 
                     ce qui est le cas de deux langages: le BASIC et le brainfuck, que nous pourrions aborder au Club Info.
                 </p>
                 
