@@ -1,0 +1,30 @@
+body
+{
+	background : url("../pictures/background.jpg") ;
+	background-image : 50% ;
+	background-attachment : fixed ;
+	font-size : 1.2em ;
+	color : silver ;
+}
+
+h1
+{
+	text-align : center ;
+}
+
+ul.menu li
+{
+	display : inline ;
+	padding : 0 0.5em ;
+}
+
+ul.menu
+{
+	list-style-type : none ;
+	text-align : center ;
+}
+
+a, a:visited
+{
+	color : grey ;
+}
