@@ -57,8 +57,7 @@ while continuer :<br/>
                 
                 <p>
                     Le Morpion ci-dessous a été réalisé en C++, voici une partie de son intelligence artificielle.
-                    Pour voir le code complet, rendez-vous sur 
-                    <a href="https://github.com/Vodak/Tic-tac-toe" target="_blank">Github</a>.
+                    Pour voir le code complet, rendez-vous sur <a href="https://github.com/Vodak/Tic-tac-toe" target="_blank">Github</a>.
                 </p>
                 
                 <p class="code">
@@ -96,7 +95,7 @@ else
                     </pre>
                 </p>
                 
-                <!-- rajouter la capture d'écran -->
+                <img src="../../pictures/tictactoe.png" alt="capture d'écran du morpion"/>
             </article>
         </section>
         
